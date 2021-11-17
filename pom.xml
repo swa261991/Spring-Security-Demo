@@ -95,7 +95,7 @@
 
 	<build>
 		<finalName>spring-security-demo</finalName>
-	
+
 		<pluginManagement>
 			<plugins>
 				<plugin>
